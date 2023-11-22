@@ -1,0 +1,12 @@
+[submodule "my_plugins/neuleetcode.vim"]
+	path = my_plugins/neuleetcode.vim
+	url = git@github.com:shownlin/neuleetcode.vim.git
+[submodule "my_plugins/tagbar"]
+	path = my_plugins/tagbar
+	url = git@github.com:preservim/tagbar.git
+[submodule "my_plugins/vim-diffchanges"]
+	path = my_plugins/vim-diffchanges
+	url = git@github.com:jmcantrell/vim-diffchanges.git
+[submodule "my_plugins/vim-numbertoggle"]
+	path = my_plugins/vim-numbertoggle
+	url = git@github.com:jeffkreeftmeijer/vim-numbertoggle.git
