@@ -10,3 +10,9 @@
 [submodule "my_plugins/vim-numbertoggle"]
 	path = my_plugins/vim-numbertoggle
 	url = git@github.com:jeffkreeftmeijer/vim-numbertoggle.git
+[submodule "my_plugins/autoload_cscope.vim"]
+	path = my_plugins/autoload_cscope.vim
+	url = git@github.com:shownlin/autoload_cscope.vim.git
+[submodule "my_plugins/vim-rooter"]
+	path = my_plugins/vim-rooter
+	url = git@github.com:airblade/vim-rooter.git
