@@ -1,5 +1,4 @@
 " Vim configs
-set autochdir
 set updatetime=100
 
 " Don't change tab to 4 space
@@ -67,4 +66,7 @@ let g:indent_guides_enable_on_vim_startup=1
 let g:indent_guides_auto_colors=0
 autocmd VimEnter,Colorscheme * :hi IndentGuidesOdd  ctermbg=236
 autocmd VimEnter,Colorscheme * :hi IndentGuidesEven ctermbg=bg
+
+" For vim-rooter
+let g:rooter_patterns = ['.git', '_darcs', '.hg', '.bzr', '.svn', 'package.json']
 
